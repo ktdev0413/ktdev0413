@@ -1,43 +1,48 @@
-<h1 align="center" style="font-family: 'Courier New', monospace; color: #a29bfe;">
-  🌸 Hey, I'm <span style="color: #ff7675;">[Your Name]</span> 🌸
+<!-- Header Section -->
+<h1 align="center" style="font-family: 'Lucida Console', Courier, monospace; color: #c3aed6;">
+  🎧 Hey, I'm <span style="color: #b56576;">[Your Name]</span>
 </h1>
 
 <p align="center">
-  <img src="./assets/lofi-banner.gif" alt="Lo-Fi Banner" width="800"/>
+  <img src="./assets/lofi-banner.gif" alt="Lo-Fi Banner" width="800" style="border-radius: 15px;"/>
 </p>
 
-<p align="center" style="color: #81ecec; font-style: italic;">
-  🎧 Stay chill and code on. Coffee, rain, and beats to keep me going. 🚀
+<p align="center" style="font-family: 'Courier New', Courier, monospace; color: #6d6875;">
+  🌧️ Just a developer chilling with some beats and coffee.<br>
+  Let’s vibe and build something cool together. 🚀
 </p>
 
 ---
 
-<h2 align="left" style="font-family: 'Courier New', monospace; color: #fab1a0;">📖 About Me</h2>
-<ul style="font-family: 'Courier New', monospace; color: #dfe6e9;">
-  <li>💼 Currently: <b>[Your Job Title]</b> at <b>[Your Company]</b></li>
-  <li>🎨 Interests: <b>Web Design</b>, <b>Front-end Development</b>, and <b>Pixel Art</b></li>
-  <li>☕ Fun fact: I love coding to lo-fi beats on rainy days 🌧️</li>
+<!-- About Me Section -->
+<h2 style="font-family: 'Lucida Console', Courier, monospace; color: #ffcbf2;">🌸 About Me</h2>
+<ul style="list-style-type: none; font-family: 'Courier New', Courier, monospace; color: #c3aed6;">
+  <li>💼 Working as: <b>[Your Role]</b> at <b>[Company]</b></li>
+  <li>📚 Learning: <b>[Tech/Skill]</b></li>
+  <li>🎨 Fun Fact: I enjoy <b>pixel art</b> and rainy day coding 🌧️</li>
 </ul>
 
 ---
 
-<h2 align="left" style="font-family: 'Courier New', monospace; color: #fab1a0;">✨ Skills & Tools</h2>
+<!-- Skills Section -->
+<h2 style="font-family: 'Lucida Console', Courier, monospace; color: #ffcbf2;">🛠️ Skills & Tools</h2>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" style="margin: 10px;"/>
 </div>
 
 ---
 
-<h2 align="left" style="font-family: 'Courier New', monospace; color: #fab1a0;">🌌 Featured Projects</h2>
+<!-- Projects Section -->
+<h2 style="font-family: 'Lucida Console', Courier, monospace; color: #ffcbf2;">📂 Featured Projects</h2>
 
-<div align="center" style="margin-bottom: 20px;">
-  <img src="./assets/project1.png" width="300" style="border-radius: 10px;" />
-  <h3 style="font-family: 'Courier New', monospace; color: #ffeaa7;">Project Name 1</h3>
-  <p style="color: #dfe6e9;">A cozy little project built with <b>React</b> and <b>Node.js</b>.</p>
+<div align="center" style="margin-bottom: 30px;">
+  <img src="./assets/project1.png" width="300" style="border-radius: 10px;"/>
+  <h3 style="color: #ffc4d0;">Project Name 1</h3>
+  <p style="color: #e0bbe4;">A cozy little web app built with <b>React</b> and <b>Node.js</b>.</p>
   <a href="https://github.com/your-profile/project1" target="_blank">
     <img src="https://img.shields.io/badge/Repo-Link-blue?style=for-the-badge" />
   </a>
@@ -47,9 +52,9 @@
 </div>
 
 <div align="center">
-  <img src="./assets/project2.gif" width="300" style="border-radius: 10px;" />
-  <h3 style="font-family: 'Courier New', monospace; color: #ffeaa7;">Project Name 2</h3>
-  <p style="color: #dfe6e9;">Exploring back-end magic with <b>Django</b> and <b>SQLite</b>.</p>
+  <img src="./assets/project2.gif" width="300" style="border-radius: 10px;"/>
+  <h3 style="color: #ffc4d0;">Project Name 2</h3>
+  <p style="color: #e0bbe4;">An interactive tool built with <b>Django</b> and <b>SQLite</b>.</p>
   <a href="https://github.com/your-profile/project2" target="_blank">
     <img src="https://img.shields.io/badge/Repo-Link-blue?style=for-the-badge" />
   </a>
@@ -60,15 +65,17 @@
 
 ---
 
-<h2 align="left" style="font-family: 'Courier New', monospace; color: #fab1a0;">🏆 Achievements</h2>
-<ul style="font-family: 'Courier New', monospace; color: #dfe6e9;">
-  <li>🥇 Winner of [Award Name] - <i>[Issuing Organization]</i></li>
-  <li>📜 Certified in [Certification Name] - <i>[Platform]</i></li>
+<!-- Achievements Section -->
+<h2 style="font-family: 'Lucida Console', Courier, monospace; color: #ffcbf2;">🏆 Achievements</h2>
+<ul style="font-family: 'Courier New', Courier, monospace; color: #c3aed6;">
+  <li>🥇 Winner of [Award Name] from [Organization]</li>
+  <li>📜 Certified in [Certification Name] from [Platform]</li>
 </ul>
 
 ---
 
-<h2 align="left" style="font-family: 'Courier New', monospace; color: #fab1a0;">📫 Let's Connect</h2>
+<!-- Contact Section -->
+<h2 style="font-family: 'Lucida Console', Courier, monospace; color: #ffcbf2;">📬 Let's Connect</h2>
 <p align="center">
   <a href="https://linkedin.com/in/your-profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
@@ -83,15 +90,18 @@
 
 ---
 
-<h2 align="left" style="font-family: 'Courier New', monospace; color: #fab1a0;">⚙️ GitHub Stats</h2>
+<!-- GitHub Stats Section -->
+<h2 style="font-family: 'Lucida Console', Courier, monospace; color: #ffcbf2;">📊 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=gruvbox_light" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=gruvbox_light" width="400" />
 </div>
 
 ---
 
-<h2 align="left" style="font-family: 'Courier New', monospace; color: #fab1a0;">💬 Chill Quote</h2>
-<blockquote align="center" style="color: #a29bfe;">
-  <em>"Chill vibes, coffee, and code – that's the way to go."</em>
+<!-- Quote Section -->
+<h2 style="font-family: 'Lucida Console', Courier, monospace; color: #ffcbf2;">💬 Chill Quote</h2>
+<blockquote align="center" style="color: #c3aed6; font-family: 'Courier New', Courier, monospace;">
+  <em>"Sometimes, the best code is written with a calm mind and lo-fi beats." 🎶</em>
 </blockquote>
+
