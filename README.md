@@ -1,79 +1,97 @@
-# 👋 Hello, I'm [Your Name]  
+<h1 align="center" style="font-family: 'Courier New', monospace; color: #a29bfe;">
+  🌸 Hey, I'm <span style="color: #ff7675;">[Your Name]</span> 🌸
+</h1>
 
-![Banner](./assets/banner.png)
+<p align="center">
+  <img src="./assets/lofi-banner.gif" alt="Lo-Fi Banner" width="800"/>
+</p>
 
-Welcome to my personal GitHub portfolio! 🚀 Here, you’ll find some of my best projects, collaborations, and skills. I'm passionate about coding, design, and making the web a better place.
-
----
-
-## 💡 About Me  
-I'm a **[Your Role/Title]** based in **[Your Location]**. With **X+ years of experience**, I love building **user-friendly** and **impactful solutions**. When I’m not coding, you’ll find me exploring [hobbies, e.g., photography 📸 or gaming 🎮].
-
-```yaml
-- 🔭 Currently working on: [Current Project Name]
-- 🌱 Learning: [Current Tech/Skill]
-- 💬 Ask me about: [Favorite Topics/Technologies]
-
-🎯 Skills & Tools
-Languages	Frameworks & Libraries	Tools
-🌟 Featured Projects
-📘 Project Name 1
-
-Description: A brief summary of what the project does and the technology used.
-🔗 Live Demo | GitHub Repo
-
-🛠️ Project Name 2
-
-Description: Another project highlight with relevant information.
-🔗 Live Demo | GitHub Repo
-
-🏆 Achievements & Certifications
-🥇 [Award/Certification Name] - [Issuing Organization]
-🎓 [Course Completion] - [Platform]
-✍️ Latest Blog Posts
-How to Build Creative GitHub README Portfolios
-Top 10 Coding Practices for Beginners
-📫 Contact Me
-Feel free to reach out to me on any of the platforms below:
-
-
-
-
-💬 Quote
-"The best way to predict the future is to invent it." — Alan Kay
-
-⚙️ GitHub Stats
-
+<p align="center" style="color: #81ecec; font-style: italic;">
+  🎧 Stay chill and code on. Coffee, rain, and beats to keep me going. 🚀
+</p>
 
 ---
 
-## **Instructions for Usage**
-
-1. **Clone the Repository**:  
-   - Create a repository named exactly like your **GitHub username** (e.g., if your username is `johnDoe`, the repository should be named `johnDoe`).
-   
-2. **Organize Your Assets**:  
-   - Create a folder named `assets` in the root directory of your repository.  
-   - Upload your **banner image**, **screenshots**, and **GIFs** to the `assets` folder.  
-   - Reference the assets in the markdown using the relative path: `./assets/your-image.png`.
-
-3. **Customize the Content**:  
-   - Replace `[Your Name]`, `[Your Role/Title]`, and other placeholders with your actual information.  
-   - Update the links to your live projects, GitHub repositories, and social profiles.
-
-4. **Deploy on GitHub**:  
-   - Push your changes to the main branch of the newly created repository.  
-   - Your customized README will now display on your GitHub profile.
+<h2 align="left" style="font-family: 'Courier New', monospace; color: #fab1a0;">📖 About Me</h2>
+<ul style="font-family: 'Courier New', monospace; color: #dfe6e9;">
+  <li>💼 Currently: <b>[Your Job Title]</b> at <b>[Your Company]</b></li>
+  <li>🎨 Interests: <b>Web Design</b>, <b>Front-end Development</b>, and <b>Pixel Art</b></li>
+  <li>☕ Fun fact: I love coding to lo-fi beats on rainy days 🌧️</li>
+</ul>
 
 ---
 
-## **Add-On Tips**
-
-- **Dark Mode Compatibility**: Test your design in both GitHub’s light and dark themes.
-- **Animated Banners**: Use **Canva** or **GIMP** to create an animated header if you want a more dynamic introduction.
-- **Interactive Stats**: Explore [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) for more customization options.
+<h2 align="left" style="font-family: 'Courier New', monospace; color: #fab1a0;">✨ Skills & Tools</h2>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
+</div>
 
 ---
 
-This code will give you a polished portfolio with a clean, creative design. If you have any more questions or need help with customization, feel free to ask! 🚀
+<h2 align="left" style="font-family: 'Courier New', monospace; color: #fab1a0;">🌌 Featured Projects</h2>
 
+<div align="center" style="margin-bottom: 20px;">
+  <img src="./assets/project1.png" width="300" style="border-radius: 10px;" />
+  <h3 style="font-family: 'Courier New', monospace; color: #ffeaa7;">Project Name 1</h3>
+  <p style="color: #dfe6e9;">A cozy little project built with <b>React</b> and <b>Node.js</b>.</p>
+  <a href="https://github.com/your-profile/project1" target="_blank">
+    <img src="https://img.shields.io/badge/Repo-Link-blue?style=for-the-badge" />
+  </a>
+  <a href="https://your-live-project-url.com" target="_blank">
+    <img src="https://img.shields.io/badge/Live-Demo-orange?style=for-the-badge" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="./assets/project2.gif" width="300" style="border-radius: 10px;" />
+  <h3 style="font-family: 'Courier New', monospace; color: #ffeaa7;">Project Name 2</h3>
+  <p style="color: #dfe6e9;">Exploring back-end magic with <b>Django</b> and <b>SQLite</b>.</p>
+  <a href="https://github.com/your-profile/project2" target="_blank">
+    <img src="https://img.shields.io/badge/Repo-Link-blue?style=for-the-badge" />
+  </a>
+  <a href="https://your-live-project-url.com" target="_blank">
+    <img src="https://img.shields.io/badge/Live-Demo-orange?style=for-the-badge" />
+  </a>
+</div>
+
+---
+
+<h2 align="left" style="font-family: 'Courier New', monospace; color: #fab1a0;">🏆 Achievements</h2>
+<ul style="font-family: 'Courier New', monospace; color: #dfe6e9;">
+  <li>🥇 Winner of [Award Name] - <i>[Issuing Organization]</i></li>
+  <li>📜 Certified in [Certification Name] - <i>[Platform]</i></li>
+</ul>
+
+---
+
+<h2 align="left" style="font-family: 'Courier New', monospace; color: #fab1a0;">📫 Let's Connect</h2>
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/your-handle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" />
+  </a>
+</p>
+
+---
+
+<h2 align="left" style="font-family: 'Courier New', monospace; color: #fab1a0;">⚙️ GitHub Stats</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" width="400" />
+</div>
+
+---
+
+<h2 align="left" style="font-family: 'Courier New', monospace; color: #fab1a0;">💬 Chill Quote</h2>
+<blockquote align="center" style="color: #a29bfe;">
+  <em>"Chill vibes, coffee, and code – that's the way to go."</em>
+</blockquote>
